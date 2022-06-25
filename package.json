@@ -1,6 +1,6 @@
 {
-	"author": "Gabriel Di Fini",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Gabriel Di Fini",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
