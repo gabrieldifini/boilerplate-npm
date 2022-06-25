@@ -2,6 +2,15 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Gabriel Di Fini",
 	"description": "A package.json file for learning npm",
+	"keywords": [
+		"npm",
+		"package",
+		"json",
+		"learning",
+		"fcc",
+		"freecodecamp",
+		"freecodecamp.org"
+	],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
